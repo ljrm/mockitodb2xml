@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mocktoDb2Xml/mockito-db2xml.iml" filepath="$PROJECT_DIR$/mocktoDb2Xml/mockito-db2xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mockitodb2xml.iml" filepath="$PROJECT_DIR$/.idea/mockitodb2xml.iml" />
+    </modules>
+  </component>
+</project>
